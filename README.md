@@ -1,6 +1,7 @@
 # Meshtastic-LoRa-Radio
 
-![Meshtastic Texting Radio Device](./images/piggyback1.jpg)
+
+
   
 # Meshtastic Texting Radio Device
 
@@ -22,7 +23,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 ## Materials List:
 
-- Case [TOP](./files/Top%20No%20Logo.stl) and [BOTTOM](./files/Bottom%20Meshtastic%20Magsafe.stl)
+- Case
 - Heltec V3 Board - battery connector included [Link](https://www.amazon.com/dp/B07FYWFH4C?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Antennas (small) - [Link](https://www.amazon.com/dp/B0BX2NFM9B?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - Antenna long range - [Link](https://www.amazon.com/gp/product/B0D3KPFVH3/ref=ox_sc_saved_image_4?smid=AQ0B8JRQY8X0X&psc=1)
