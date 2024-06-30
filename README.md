@@ -1,6 +1,6 @@
 # Meshtastic-LoRa-Radio
 
-![device](meshtastic-project-photos/pigguback1.jpg)
+![device](meshtastic-project-photos/piggyback1.jpg)
 
   
 # Meshtastic Texting Radio Device
