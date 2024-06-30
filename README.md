@@ -64,7 +64,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 10. Connect antenna wire to board
 
-  ![sma to board](meshtastic%20project%20photos/smatoboard.jpg)
+  ![sma to board](meshtastic%20project%20photos/smatoboard.JPG)
 
 11. Insert battery
 
