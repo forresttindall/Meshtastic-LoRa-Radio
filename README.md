@@ -38,15 +38,15 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 ## Assembly:
 
-1. Print case
+1. Print case.
    
 2. Download [Chrome browser](https://www.google.com/chrome/)
    
-3. Using Chrome, flash latest meshtastic firmware to the main board. Select Heltec V3 [Link](https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/web-flasher/)
+3. Using Chrome, flash latest meshtastic firmware to the main board. Select Heltec V3. [Link](https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/web-flasher/)
 
    ![flasher](meshtastic%20project%20photos/meshtasticflasher.png)
 
-4. Download meshtastic app from the AppStore or Google Play Store
+4. Download meshtastic app from the AppStore or Google Play Store.
 
 5. Cut ends of battery harness included in heltec V3 box.
 
@@ -56,23 +56,23 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 7. Solder battery wires, switch and heltec harness together as shown. Battery to middle post on switch.
 
-8. Insert switch into switch opening in case
+8. Insert switch into switch opening in case.
 
-9. Install SMA connector into antenna hole on casein onto V3 board
+9. Install SMA connector into antenna hole on case.
 
    ![sma to case](meshtastic%20project%20photos/smatocase.jpg)
 
-10. Connect antenna wire to board
+10. Connect antenna wire to board.
 
   ![sma to board](meshtastic%20project%20photos/smatoboard.JPG)
 
-11. Insert battery
+11. Insert battery.
 
-12. Configure wires so case closes
+12. Configure wires so case closes.
 
    ![sma to case](meshtastic%20project%20photos/alignwires.jpg)
 
-13. Close case halves and screw together
+13. Close case halves and screw together.
 
    ![screws](meshtastic%20project%20photos/screws.jpg)
 
