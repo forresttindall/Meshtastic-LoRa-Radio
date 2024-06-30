@@ -44,7 +44,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
    
 2. Using Chrome, flash latest meshtastic firmware to the main board. Select Heltec V3 [Link](https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/web-flasher/)
 
-   ![Meshtastic Flasher](./images/meshtasticflasher.png)
+   ![flasher](meshtastic%20project%20photos/meshtasticflasher.jpg)
 
 3. Download meshtastic app from the AppStore or Google Play Store
 
@@ -52,7 +52,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 5. Cut ends of 1100mAh battery cables
 
-   ![Battery Harness](./images/harness.JPG)
+   ![battery harness](meshtastic%20project%20photos/harness.jpg)
 
 6. Solder battery wires, switch and heltec harness together as shown. Battery to middle post on switch.
 
@@ -60,24 +60,24 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 8. Install SMA connector into antenna hole on casein onto V3 board
 
-   ![SMA Connector](./images/smatocase.jpg)
+   ![sma to case](meshtastic%20project%20photos/smatocase.jpg)
 
 9. Connect antenna wire to board
 
-   ![Antenna to Board](./images/smatoboard.JPG)
+  ![sma to board](meshtastic%20project%20photos/smatoboard.jpg)
 
 10. Insert battery
 
 11. Configure wires so case closes
 
-   ![Align Wires](./images/alignwires.jpg)
+   ![sma to case](meshtastic%20project%20photos/alignwires.jpg)
 
 12. Close case halves and screw together
 
-   ![Screws](./images//screws.jpg)
+   ![screws](meshtastic%20project%20photos/screws.jpg)
 
 13. Press magnets in back of the case.
 
 14. Enjoy off grid encrypted text messaging!
 
-   ![Finished Device](./images/finished.jpg)
+   ![finished devices](meshtastic%20project%20photos/finished.jpg)
