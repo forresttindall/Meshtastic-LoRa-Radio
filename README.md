@@ -44,7 +44,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
    
 2. Using Chrome, flash latest meshtastic firmware to the main board. Select Heltec V3 [Link](https://meshtastic.org/docs/getting-started/flashing-firmware/esp32/web-flasher/)
 
-   ![flasher](meshtastic%20project%20photos/meshtasticflasher.jpg)
+   ![flasher](meshtastic%20project%20photos/meshtasticflasher.png)
 
 3. Download meshtastic app from the AppStore or Google Play Store
 
@@ -52,7 +52,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 5. Cut ends of 1100mAh battery cables
 
-   ![battery harness](meshtastic%20project%20photos/harness.jpg)
+   ![battery harness](meshtastic%20project%20photos/harness.JPG)
 
 6. Solder battery wires, switch and heltec harness together as shown. Battery to middle post on switch.
 
