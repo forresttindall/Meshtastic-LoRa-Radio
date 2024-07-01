@@ -27,7 +27,7 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 - Case
 - Heltec V3 Board - battery connector included [Link](https://www.amazon.com/dp/B07FYWFH4C?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Antennas (small) - [Link](https://www.amazon.com/dp/B0BX2NFM9B?ref=ppx_yo2ov_dt_b_product_details&th=1)
-- Antenna long range - [Link](https://www.amazon.com/gp/product/B0D3KPFVH3/ref=ox_sc_saved_image_4?smid=AQ0B8JRQY8X0X&psc=1)
+- Antenna long range - [Link](https://www.amazon.com/gp/product/B0CTXL61LY/ref=ox_sc_act_title_1?smid=A1SL54BY2F0SS5&th=1)
 - 3.7v 1100mAh battery - [Link](https://www.amazon.com/dp/B08FD39Y5R?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Screws - #6 x ½” self tapping (7mm x 13mm) - [Link](https://www.amazon.com/dp/B0B5CNQXMN?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Magsafe ring - [Link](https://www.amazon.com/gp/product/B0CSVXD888/ref=ox_sc_saved_image_3?smid=A1M11WW4NKTCL&psc=1)
