@@ -14,7 +14,11 @@ This device is an open source device the real credit goes to the Meshtastic team
 
 ---
 
-**Caveat:** After further testing ive found that the range is highly dependent on antenna, number of devices on the mesh network and terrain. I've included some antenna options for increased range. However when tested in a desnse forest, im only getting line of sight range. It will be more in flat open country however. The LoRa frequencies apprears to just be limited in power and range.
+**Caveat:**
+***I will not be selling them***
+After testing in the austere mountains of Idaho I've determined that I will not be moving forward with the project or any other LoRa devices. In the dense ponderosa forest where I live the range is just not enough to be effective for my purposes.
+
+Many have reported that the range is much greater in flat open country, however that is little use to me. I will not be selling this device, i'm sorry! I do have a number of cases printed if you're still interested in pursuing this project. It's still very educational and interesting technology.
 
 ---
 
