@@ -15,7 +15,6 @@ This device is an open source device the real credit goes to the Meshtastic team
 ---
 
 **Caveat:**
-***I will not be selling them***
 After testing in the austere mountains of Idaho I've determined that I will not be moving forward with the project or any other LoRa devices. In the dense ponderosa forest where I live the range is just not enough to be effective for my purposes.
 
 Many have reported that the range is much greater in flat open country, however that is little use to me. I will not be selling this device, i'm sorry! I do have a number of cases printed if you're still interested in pursuing this project. It's still very educational and interesting technology.
@@ -28,7 +27,8 @@ I'd recommend reading more about the meshtastic technology [here](https://meshta
 
 ## Materials List:
 
-- Case
+- Case [Link][LoRa radio case files.zip](https://github.com/user-attachments/files/16819343/LoRa.radio.case.files.zip)
+
 - Heltec V3 Board - battery connector included [Link](https://www.amazon.com/dp/B07FYWFH4C?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Antennas (small) - [Link](https://www.amazon.com/dp/B0BX2NFM9B?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - Antenna long range (reccomended)- [Link](https://www.amazon.com/gp/product/B0CTXL61LY/ref=ox_sc_act_title_1?smid=A1SL54BY2F0SS5&th=1)
